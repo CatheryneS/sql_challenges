@@ -8,7 +8,7 @@
 1. Write the SQL to return all of the rows in the artists table?
 
 
-2. Write the SQL to select the artist with the name "Black Sabbath"
+2. Write the SQL to select the artist with the name "Black Eyed Peas"
 
 
 3. Write the SQL to create a table named 'fans' with an autoincrementing ID that's a primary key and a name field of type text
